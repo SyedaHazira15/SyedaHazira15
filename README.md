@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SyedaHazira15
-- 👀 I’m interested in internship (I have taken computer class Ms word, PowerPoint, excel , sql ,C# , .Netcore, oops) 
+- 👀 I’m interested in internship (I have taken computer class Ms word, PowerPoint, excel , sql ,C# , .Netcore, oops, virtual Studio code , Virtual studio 2019) 
 - 🌱 I’m currently learning 2nd year( pre- engineering)
 - 💞️ I’m looking to collaborate on ...Office work internship
 - 📫 How to reach me ...
